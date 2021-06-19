@@ -12,7 +12,7 @@ My name is Maneena,
     - xiong.maneena@gmail.com
     - linkedin.com/in/maneena-xiong-9a3227171
 - :bust_in_silhouette: My Portfolio:
--   - https://manxiong26.github.io/
+    - https://manxiong26.github.io/
 
 - ⚡ Fun fact: 
     - I am a Pet Groomer :dog::dog2: turn Developer!
