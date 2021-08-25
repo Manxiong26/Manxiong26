@@ -7,7 +7,7 @@
 
 My name is Maneena,
 
-🔭 I’m currently dipping my toes into Gatsby and GraphQL.....
+🔭 I’m currently creating something.....
 
 💬 Ask me about my Cute Puppers...:feet::poodle:
 
