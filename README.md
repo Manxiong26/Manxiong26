@@ -21,3 +21,5 @@ My name is Maneena,
 ⚡ Fun fact: 
     - I am a Pet Groomer :dog::dog2: turn Developer!
 
+Technologies
+<img src="https://www.regexplanet.com/advanced/postgresql/index.html"
