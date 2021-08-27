@@ -22,7 +22,7 @@ My name is Maneena,
     - I am a Pet Groomer :dog::dog2: turn Developer!
 
 
-Technologies, Frameworks and Tools Learnt or Leanring:
+### Technologies, Frameworks and Tools Learnt or Leanring:
 <img alt="original" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="300" height="185"/>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://ajeetchaulagain.com/static/a3d362eac404a6b6e3046f8fc681392c/92a94/express-js.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
