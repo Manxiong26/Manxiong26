@@ -22,4 +22,4 @@ My name is Maneena,
     - I am a Pet Groomer :dog::dog2: turn Developer!
 
 Technologies
-<img src="https://www.regexplanet.com/advanced/postgresql/index.html">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
