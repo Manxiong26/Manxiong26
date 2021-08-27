@@ -12,8 +12,8 @@ My name is Maneena,
 💬 Ask me about my Cute Puppers...:feet::poodle:
 
 📫 How to reach me: 
-    - xiong.maneena@gmail.com
-    - linkedin.com/in/maneena-xiong-9a3227171
+    <a href="mailto:xiong.maneena@gmail.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMaUGtsB23oAqdZT3fxP3okDldhF0GQVWAQ&usqp=CAU" alt="gmail" width="40" height="40"/> </a> 
+    <a href="https://www.linkedin.com/in/maneena-xiong-9a3227171/" target="_blank"> <img src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" alt="LinkedIn" width="40" height="40"/> </a> 
 
 :bust_in_silhouette: My Portfolio:
     - https://manxiong26.github.io/
@@ -30,4 +30,4 @@ My name is Maneena,
 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
     
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="redux" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png" alt="redux" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="redux" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png" alt="redux" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="Jquery" width="40" height="40"/> </a> 
