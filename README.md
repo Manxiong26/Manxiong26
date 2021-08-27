@@ -24,4 +24,4 @@ My name is Maneena,
 Technologies:
 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
-<img style="width: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UVX7ie6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png">
+<img width="10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UVX7ie6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png">
