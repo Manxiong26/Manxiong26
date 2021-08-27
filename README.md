@@ -23,4 +23,4 @@ My name is Maneena,
 
 Technologies:
 
-<img width="100px" height="50px" src="https://miro.medium.com/max/800/1*PY24xlr4TpOkXW04HUoqrQ.jpeg"> <img width="100px" height="50px" src="https://www.vhv.rs/dpng/d/524-5247360_react-redux-react-redux-next-js-hd-png.png"> <img width="100px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1u2RXDxxpgraxPuPkcoZcNizptVGpk9EeA&usqp=CAU">
+<img width="100px" height="50px" src="https://miro.medium.com/max/800/1*PY24xlr4TpOkXW04HUoqrQ.jpeg"> <img width="100px" height="50px" src="https://www.vhv.rs/dpng/d/524-5247360_react-redux-react-redux-next-js-hd-png.png"> <img width="100px" height="50px" src="https://previews.123rf.com/images/vasilyrosca/vasilyrosca2002/vasilyrosca200200038/139595915-html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol.jpg">
