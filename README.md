@@ -23,4 +23,4 @@ My name is Maneena,
 
 Technologies:
 
-<img width="100px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> <img width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--UVX7ie6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png">
+<img width="100px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> <img width="100px" src="https://www.vhv.rs/dpng/d/524-5247360_react-redux-react-redux-next-js-hd-png.png">
