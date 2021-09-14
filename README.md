@@ -7,7 +7,7 @@
 
 My name is Maneena,
 
-🔭 I’m currently creating something.....
+🔭 I’m currently leanring PHP and MySQL....
 
 💬 Ask me about my Cute Puppers...:feet::poodle:
 
