@@ -1,11 +1,11 @@
-## Hi there Welcome to MaNeena's GitHub 👋
+## Hi there Welcome to My GitHub 👋
 
 <!--
 **Manxiong26/Manxiong26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 🌱 Life is always changing and so shall I... 🌱
 
-My name is Maneena,
+My name is MaNeena,
 
 🔭 I’m currently leanring PHP and MySQL....
 
