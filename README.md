@@ -19,7 +19,7 @@ My name is MaNeena,
     - https://manxiong26.github.io/
 
 ⚡ Fun fact: 
-    - I am a Pet Groomer :dog::dog2: turn Developer!
+    - I'm a Horror Movie and True Crime Enthusiast! Are you?
 
 
 ### Technologies, Frameworks and Tools Learnt or Learning:
