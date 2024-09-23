@@ -7,8 +7,7 @@
 
 My name is MaNeena,
 
-📫 How to reach me: 
-    <a href="mailto:xiong.maneena@gmail.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="gmail" width="40" height="40"/> </a> 
+📫 How to reach me:  
     <a href="https://www.linkedin.com/in/maneena-xiong-9a3227171/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/linkedin-sociocon.png" alt="LinkedIn" width="40" height="40"/> </a> 
 
 :bust_in_silhouette: My Portfolio:
